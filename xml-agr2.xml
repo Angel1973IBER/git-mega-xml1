@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contrato_SPA[
+<!ELEMENT contrato_SPA (commoditie)
+]
+<contract_SPA>
+    <commoditie>
+        <sugar>ICUMSA 45</sugar>
+        <color>White</color></commoditie>
+<heat_01 FCO="FCO-A20230101-IC45-400KMT-IBER-XXXXX-P0RT"></heat_01>
+    <issue Date="Tuesday, December 20, 2022"></issue>
+    <expiration Date="Friday, December 23, 2022"></expiration>
+    <to mr=""></to>
+    <att mr=""></att>
+    <via mr="Mr. xxxxxxxxxx / XXX" mrs="XXXXXXXXXX / Via: Mr. Antonio – CMO, IBER OUTDOORS S.L"></via>
+    <via mr="Mr. Antonio – CMO, IBER OUTDOORS S.L"></via>
+<EMPTY/>
+<customer_A>IBER OUTDOORS S.L.</customer_A>
+    <issue Date="Tuesday, December 20, 2022"></issue>
+    <expiration Date="Friday, December 23, 2022"></expiration>
+    <to mr=""></to>
+    <att mr=""></att>
+    <via mr="Mr. xxxxxxxxxx / XXX" mrs="XXXXXXXXXX / via: Mr. Antonio – CMO, IBER OUTDOORS S.L"></via>
+    <via mr="Mr. Antonio – CMO, IBER OUTDOORS S.L"></via>
+<EMPTY/>
+<customer_B>XXXXXXXXXXXXXX</customer_B>
+    <the Exporter="Tuesday, December 20, 2022"></the>
+    <company Name="IBER OUTDOORS S.L."></company>
+    <to mr=""></to>
+    <att mr=""></att>
+    <via mr="Mr. xxxxxxxxxx / XXX" mrs="XXXXXXXXXX / Via: Mr. Antonio – CMO, IBER OUTDOORS S.L">
+        </via>
+</contract_SPA>

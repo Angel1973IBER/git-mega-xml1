@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CONTRACT_SPA [
+<!ELEMENT CONTRACT_SPA ()
+]
+
+<CONTRACT_SPA>
+<SPA No="XXXXXXXXXX"/>
+<DateHeader to="Issuance_Expiration_and_directed">
+...
+</DateHeader>
+<Customer-A Exporter="IBER_OUTDOORS_S.L">
+...
+</Customer-A>
+<Customer-B Importer="TRIA">
+...
+</Customer-B>
+<PREAMBLE Header="Preamble">
+...
+</PREAMBLE>
+</CONTRACT_SPA>
